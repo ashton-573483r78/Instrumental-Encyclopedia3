@@ -1,0 +1,133 @@
+.home-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home-page .overlap-wrapper {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 1024px;
+}
+
+.home-page .overlap {
+  position: relative;
+  height: 1024px;
+}
+
+.home-page .light-blue {
+  position: absolute;
+  width: 1440px;
+  height: 1023px;
+  top: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.home-page .text-wrapper {
+  position: absolute;
+  top: 0;
+  left: 157px;
+  font-family: "PT Serif-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .group {
+  width: 452px;
+  left: 833px;
+  position: absolute;
+  height: 557px;
+  top: 312px;
+}
+
+.home-page .div {
+  position: absolute;
+  width: 450px;
+  top: 0;
+  left: 0;
+  font-family: "PT Serif-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-page .element-string {
+  position: absolute;
+  width: 388px;
+  height: 500px;
+  top: 57px;
+  left: 31px;
+  object-fit: cover;
+}
+
+.home-page .overlap-group-wrapper {
+  width: 502px;
+  left: 137px;
+  position: absolute;
+  height: 557px;
+  top: 312px;
+}
+
+.home-page .overlap-group {
+  position: relative;
+  width: 500px;
+  height: 557px;
+}
+
+.home-page .text-wrapper-2 {
+  position: absolute;
+  top: 0;
+  left: 40px;
+  font-family: "PT Serif-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .img {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  top: 57px;
+  left: 0;
+  object-fit: cover;
+}
+
+.home-page .p {
+  position: absolute;
+  width: 896px;
+  top: 157px;
+  left: 272px;
+  font-family: "PT Serif-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .credit-of-ashton {
+  position: absolute;
+  top: 979px;
+  left: 548px;
+  font-family: "PT Serif-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
